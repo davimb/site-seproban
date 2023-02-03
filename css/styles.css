@@ -3096,7 +3096,7 @@ textarea.form-control-lg {
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #157347;
+  background-color: #136b42;
   border-color: #146c43;
 }
 .btn-check:focus + .btn-success, .btn-success:focus {
@@ -11351,7 +11351,7 @@ p {
   font-weight: 700;
 }
 #mainNav .navbar-brand {
-  color: #d4a05b;
+  color: #ecbd5e;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   letter-spacing: 0.0625em;
@@ -11367,7 +11367,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #d4a05b;
+  color: #ecbd5e;
 }
 
 @media (min-width: 992px) {
@@ -11592,11 +11592,13 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #ecbd5e;
+  background-color: #198754;
+}
+#timeline-contact {
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 #timeline-contact:hover {
-  background-color: #a5813a;
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  background-color: #136b42;
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
