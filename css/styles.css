@@ -11341,7 +11341,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #083631;
+  background-color: #012b24;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -11389,7 +11389,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #083631;
+    background-color: #012b24;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -11410,7 +11410,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/page-top-background.png");
+  background-image: url("../assets/img/page-top.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11592,7 +11592,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #198754;
+  background-color: #eebb54;
 }
 #timeline-contact {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -11710,7 +11710,7 @@ header.masthead .masthead-heading {
 }
 
 section#contato {
-  background-color: #083631;
+  background-color: #012b24;
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
